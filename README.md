@@ -145,6 +145,15 @@ public class Main {
 }
 
 
+🔎 Detalhes Técnicos Importantes
+
+Instância Única (Singleton): neste projeto foi utilizada a estratégia Lazy Initialization, onde a instância só é criada no primeiro uso.
+
+Thread-safety com Double-Checked Locking: o método getInstance() utiliza double-checked locking, garantindo segurança em ambientes multithread sem perda de desempenho.
+
+Esses conceitos são fundamentais para assegurar que somente uma instância do controlador exista durante toda a execução do sistema.
+
+
 <span style="color:#DC143C;">✔️ Conclusão</span>
 
 Este projeto demonstra claramente que:
