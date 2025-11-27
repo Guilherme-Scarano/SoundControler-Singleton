@@ -30,7 +30,7 @@ Criar um controlador de som que:
 
 ## <span style="color:#9370DB;">📌 Diagrama UML</span>
 
-<img width="480" height="814" alt="Image" src="https://github.com/user-attachments/assets/10116585-0925-4e9d-a812-68e817c92100" />
+<img width="480" height="814" alt="Image" src="https://github.com/user-attachments/assets/0bd5ea49-b943-4ea5-a19f-70680813ab26" />
 
 ## <span style="color:#FF8C00;">📁 Estrutura do Projeto</span>
 
